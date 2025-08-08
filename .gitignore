@@ -42,4 +42,4 @@ next-env.d.ts
 
 
 firebase-service-account.json
-firebase-messaging-sw.js
+firebase-messaging-sw.jslib/firebase-service-account.json
