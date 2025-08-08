@@ -41,5 +41,5 @@ yarn-error.log*
 next-env.d.ts
 
 
-firebase-service-account.json
-firebase-messaging-sw.jslib/firebase-service-account.json
+public/firebase-service-account.json
+lib/firebase-service-account.json
